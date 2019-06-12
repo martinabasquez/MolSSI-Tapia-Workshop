@@ -1,0 +1,10 @@
+butanol 	 -232.1656 
+butanol 	 -466.3836 
+butanol 	 -154.0913 
+butanol 	 -349.2740 
+butanol 	 -310.2385 
+butanol 	 -115.0480 
+butanol 	 -427.3465 
+butanol 	 -388.3111 
+butanol 	 -271.2014 
+butanol 	 -193.1284 
